@@ -1,5 +1,6 @@
 # outcomes from cloud courses/workshops/trainings
 ## AWS 
+* [AWS Technical Essentials ](https://drive.google.com/file/d/1I6RdgWR1mOVS-Y_Nv3PxARlit1wmb-It/view?usp=share_link)
 * [Advanced CloudFormation: Macros ](https://drive.google.com/file/d/1Ka8H8UO5HDthnEQ-NXzjOhluG_tkSA8D/view?usp=drive_link)
 * [Amazon DynamoDB - Architecture and Features ](https://drive.google.com/file/d/11pLG_qrPExINrcwuxg3FMc882kEZjCsH/view?usp=drive_link)
 * [Amazon DynamoDB Service Primer ](https://drive.google.com/file/d/1b8VgWMiDZpTt9lTd6YWuCW3tUWR3x5l5/view?usp=drive_link)
