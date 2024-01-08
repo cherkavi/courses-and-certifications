@@ -1,6 +1,7 @@
 # outcomes from cloud courses/workshops/trainings
 ## AWS 
 * [Developing on AWS](https://drive.google.com/file/d/15pZ76-ypPPxxsKU2ApEDNjqcBK5lZCGj/view?usp=drive_link)
+* [Migrating to the AWS Cloud](https://courses.edx.org/certificates/b7d88d0d272144bd8f12d2d7e9f1840d)
 * [AWS Technical Essentials ](https://drive.google.com/file/d/1I6RdgWR1mOVS-Y_Nv3PxARlit1wmb-It/view?usp=share_link)
 * [Advanced CloudFormation: Macros ](https://drive.google.com/file/d/1Ka8H8UO5HDthnEQ-NXzjOhluG_tkSA8D/view?usp=drive_link)
 * [Amazon DynamoDB - Architecture and Features ](https://drive.google.com/file/d/11pLG_qrPExINrcwuxg3FMc882kEZjCsH/view?usp=drive_link)
