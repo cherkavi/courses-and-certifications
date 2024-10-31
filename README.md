@@ -1,6 +1,7 @@
 # outcomes from cloud courses/workshops/trainings
 ## AWS 
 * [Cloud DevOps Engineer Udacity Nanodegree](https://confirm.udacity.com/e/e7ece2f0-b805-11ed-9511-9b4cfd4a9b2a)
+* [Architecting on AWS, BMW/AWS](https://drive.google.com/file/d/1_L4oN5_XX_6vnqtKjlO3zWztuhbZ5t5G/view)
 * [Developing on AWS](https://drive.google.com/file/d/15pZ76-ypPPxxsKU2ApEDNjqcBK5lZCGj/view?usp=drive_link)
 * [Migrating to the AWS Cloud](https://courses.edx.org/certificates/b7d88d0d272144bd8f12d2d7e9f1840d)
 * [AWS Technical Essentials ](https://drive.google.com/file/d/1I6RdgWR1mOVS-Y_Nv3PxARlit1wmb-It/view?usp=share_link)
