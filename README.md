@@ -86,6 +86,8 @@
 * [MongoDB for Java Developers (M101J)](https://drive.google.com/file/d/0B3NslMnP2u0UMVVDZnEzZXpRcUU/view?usp=sharing)
 
 ## AWS 
+* [AWS EventBridge](https://drive.google.com/file/d/1vRiN6TbAXVGOVKboT-dILxdgjKy4ULYW/view?usp=sharing)
+* [AWS DataSync](https://drive.google.com/file/d/1976XmavdfhN5X-aQ_sAQnnX59Lr3Nzke/view?usp=sharing)
 * [Cloud DevOps Engineer Udacity Nanodegree](https://confirm.udacity.com/e/e7ece2f0-b805-11ed-9511-9b4cfd4a9b2a)
 * [Architecting on AWS](https://drive.google.com/file/d/1_L4oN5_XX_6vnqtKjlO3zWztuhbZ5t5G/view)
 * [AWS Concepts](https://drive.google.com/file/d/1eCHWz0SwCDdC1hPF93-xaJheAe0-MPlM/view?usp=drive_link)
