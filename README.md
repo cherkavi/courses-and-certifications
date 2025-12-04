@@ -86,6 +86,7 @@
 * [MongoDB for Java Developers (M101J)](https://drive.google.com/file/d/0B3NslMnP2u0UMVVDZnEzZXpRcUU/view?usp=sharing)
 
 ## AWS 
+* [AWS Security Engineering](https://drive.google.com/file/d/14gNio22xJxa5_hM7rs3SF2HvgmozojAT/view?usp=drive_link)
 * [Advanced Architecting on AWS](https://drive.google.com/file/d/18tgvBcox4oBKnQBEWJbIV3aHMdKDAi4k/view?usp=drive_link)
 * [AWS EventBridge](https://drive.google.com/file/d/1vRiN6TbAXVGOVKboT-dILxdgjKy4ULYW/view?usp=sharing)
 * [AWS DataSync](https://drive.google.com/file/d/1976XmavdfhN5X-aQ_sAQnnX59Lr3Nzke/view?usp=sharing)
